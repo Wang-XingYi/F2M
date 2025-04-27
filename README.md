@@ -21,27 +21,27 @@ pip install -r requirements.txt
 ```
 │dataset/
 ├──Train/
-│  ├── eczema
-│  │   ├──04
-│  │   │  ├──01_head
+│  ├── eczema/
+│  │   ├──04/
+│  │   │  ├──01_head/
 │  │   │  │  ├──20180327093840098.jpg
 │  │   │  │  ├──......
-│  │   │  ├──02_limb
-│  │   │  ├──03_torso
-│  │   │  ├──04_hair_dermatoscopic
-│  │   │  ├──05_other_dermatoscopic
-│  │   ├──05
+│  │   │  ├──02_limb/
+│  │   │  ├──03_torso/
+│  │   │  ├──04_hair_dermatoscopic/
+│  │   │  ├──05_other_dermatoscopic/
+│  │   ├──05/
 │  │   ├──......
-│  ├── others
-│  ├── psoriasis
+│  ├── others/
+│  ├── psoriasis/
 ├──Val/
-│  ├── eczema
-│  ├── others
-│  ├── psoriasis
+│  ├── eczema/
+│  ├── others/
+│  ├── psoriasis/
 ├──Test/
-│  ├── eczema
-│  ├── others
-│  ├── psoriasis
+│  ├── eczema/
+│  ├── others/
+│  ├── psoriasis/
 ├──Train_List.txt
 ├──Val_List.txt
 ├──Test_List.txt

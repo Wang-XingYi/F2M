@@ -2,7 +2,7 @@
 
 # Overview
 This repository contains the source code for F2M: Improving Skin Disease Recognition by Fusing Multi-source and Multi-scale Image Features
-![image](https://github.com/Wang-XingYi/RejoinViG/blob/main/Images/network.jpg)
+![image](https://github.com/Wang-XingYi/F2M/blob/main/image/network.jpg)
 
 # Usage
 

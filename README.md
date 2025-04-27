@@ -15,13 +15,22 @@ conda install pytorch==1.10.0 torchvision==0.11.0
 pip install -r requirements.txt
 ```
 ### Dataset
-```
 
 - Dataset Structure
 ```
 │dataset/
 ├──Train/
 │  ├── eczema/
+│  │   ├──04/
+│  │   │  ├──01_head/
+│  │   │  │  ├──20180327093840098.jpg
+│  │   │  │  ├──......
+│  │   │  ├──02_limb/
+│  │   │  ├──03_torso/
+│  │   │  ├──04_hair_dermatoscopic/
+│  │   │  ├──05_other_dermatoscopic/
+│  │   ├──05/
+│  │   ├──......
 │  ├── others/
 │  ├── psoriasis/
 ├──Val/

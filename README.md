@@ -41,6 +41,7 @@ pip install -r requirements.txt
 │  ├── eczema/
 │  ├── others/
 │  ├── psoriasis/
+├──create_txt.py
 ├──Train_List.txt
 ├──Val_List.txt
 ├──Test_List.txt
